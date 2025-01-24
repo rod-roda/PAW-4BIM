@@ -1,0 +1,6 @@
+@Helio4bimCSharp_HostAddress = http://localhost:5213
+
+GET {{Helio4bimCSharp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
